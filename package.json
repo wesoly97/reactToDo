@@ -18,7 +18,7 @@
   "homepage": "https://wesoly97.github.io/reactToDo/",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "CI=false && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
