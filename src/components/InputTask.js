@@ -13,7 +13,7 @@ export default function Input({ addTask }) {
         <span className={styles.eLetter}>E-</span>
         <span className={styles.restLetter}>TASK</span>
       </h1>
-      <h2>19.04.2021</h2>
+      <h2>nowa_zmiana</h2>
       <h5 className="brown-text size">Proszę, Dodaj zadanie do zrobienia</h5>
       <div className={styles.container}>
         <div class="row">
