@@ -9,7 +9,7 @@ const Navbar = () => {
                     <div className="container">
                         <div className="row navRow">
                             <div className="col s1">
-                                <a href="/" className="brand-logo">E-TASK</a>
+                                <a href="https://wesoly97.github.io/reactToDo/" className="brand-logo">E-TASK</a>
                             </div>
                         </div>
                     </div>
